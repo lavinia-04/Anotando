@@ -16,29 +16,19 @@
 
 ## Comandos básicos do Git
 
-**Criar novo repositório**
 
-git init : **Verificar estado dos arquivos/diretórios**
+
+git init : **Verificar estado dos arquivos/diretórios **
 
 git status: **Adicionar arquivo/diretório **
 
-*Adicionar um arquivo em específico*
+git add meu_arquivo.txt: *Adicionar um diretório em específico*
 
-git add meu_arquivo.txt
+git add meu_diretorio: *Adicionar todos os arquivos/diretórios*
 
-*Adicionar um diretório em específico*
+git add .	:*Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)*
 
-git add meu_diretorio
-
-*Adicionar todos os arquivos/diretórios*
-
-git add .	
-
-*Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)*
-
-git add -f arquivo_no_gitignore.txt
-
-**Comitar arquivo/diretório**
+git add -f arquivo_com_exemplo.txt: **Comitar arquivo/diretório**
 
 *Comitar um arquivo*:git commit meu_arquivo.txt
 
