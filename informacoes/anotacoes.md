@@ -20,7 +20,7 @@
 
 
 
-- git init : Verificar estado dos arquivos/diretórios 
+- **git init** : Verificar estado dos arquivos/diretórios 
 
 - git status: Adicionar arquivo/diretório 
 
