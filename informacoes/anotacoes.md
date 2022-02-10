@@ -15,9 +15,12 @@
 - **Echo**: Printa  no terminal uma frase ou texto 
 
 ## Comandos básicos do Git
+
 **Criar novo repositório**
+
 git init
 **Verificar estado dos arquivos/diretórios**
+
 git status
 **Adicionar arquivo/diretório (staged area)**
 *Adicionar um arquivo em específico*
