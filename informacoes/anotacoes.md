@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Comandos Básicos do Terminal :computer:
 
 
@@ -16,6 +16,6 @@
 
 =======
 ##Comandos Básicos do Terminal
->>>>>>> a7a3d29c8581b45e19a2ab5fb6cedc0fee50c762
+
 
 
