@@ -15,7 +15,7 @@
 - **Echo**: Printa  no terminal uma frase ou texto 
 
 
-##Comandos Básicos do Terminal
+
 
 
 
