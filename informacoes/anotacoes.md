@@ -18,21 +18,21 @@
 
 
 
-git init : **Verificar estado dos arquivos/diretórios **
+git init : Verificar estado dos arquivos/diretórios 
 
-git status: **Adicionar arquivo/diretório **
+git status: Adicionar arquivo/diretório 
 
-git add meu_arquivo.txt: *Adicionar um diretório em específico*
+git add meu_arquivo.txt: Adicionar um diretório em específico
 
-git add meu_diretorio: *Adicionar todos os arquivos/diretórios*
+git add meu_diretorio: Adicionar todos os arquivos/diretórios
 
 git add .	:Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)
 
 git add -f arquivo_com_exemplo.txt: Comitar um novo arquivo
 
-Comitar um arquivo:git commit meu_arquivo.txt
+git commit meu_arquivo.txt: Comitar um arquivo
 
-Comitar informando mensagem: git commit meuarquivo.txt -m "minha mensagem de commit"
+git commit meuarquivo.txt -m "minha mensagem de commit": Comitar informando mensagem
 
 
 
