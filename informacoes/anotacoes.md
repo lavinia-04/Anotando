@@ -18,12 +18,10 @@
 
 **Criar novo repositório**
 
-git init
-**Verificar estado dos arquivos/diretórios**
+git init : **Verificar estado dos arquivos/diretórios**
 
 git status
-
-**Adicionar arquivo/diretório (staged area)**
+**Adicionar arquivo/diretório **
 
 *Adicionar um arquivo em específico*
 
