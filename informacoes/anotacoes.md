@@ -28,11 +28,11 @@
 
 - **git add meu_diretorio**: Adicionar todos os arquivos/diretórios
 
-- **git add .	**: Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)
+- **git add .** : Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)
 
 - **git add -f arquivo_com_exemplo.txt**: Comitar um novo arquivo
 
-- *8git commit meu_arquivo.txt**: Comitar um arquivo
+- **git commit meu_arquivo.txt**: Comitar um arquivo
 
 - **git commit meuarquivo.txt -m "minha mensagem de commit"**: Comitar informando mensagem
 
