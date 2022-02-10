@@ -20,17 +20,17 @@
 
 
 
-- **git init** : Verificar estado dos arquivos/diretórios 
+- **git init** : Criar novo repositório
 
-- **git status** : Adicionar arquivo/diretório 
+- **git status** : Verificar estado dos arquivos/diretórios
 
-- **git add meu_arquivo.txt**: Adicionar um diretório em específico
+- **git add meu_arquivo.txt**: Adicionar um arquivo em específico
 
-- **git add meu_diretorio**: Adicionar todos os arquivos/diretórios
+- **git add meu_diretorio**: Adicionar um diretório em específico
 
-- **git add .** : Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)
+- **git add .** : Adicionar todos os arquivos/diretórios
 
-- **git add -f arquivo_com_exemplo.txt**: Comitar um novo arquivo
+- **git add -f arquivo_com_exemplo.txt**: Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)
 
 - **git commit meu_arquivo.txt**: Comitar um arquivo
 
