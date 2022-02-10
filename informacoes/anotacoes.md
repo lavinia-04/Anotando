@@ -20,8 +20,7 @@
 
 git init : **Verificar estado dos arquivos/diretórios**
 
-git status
-**Adicionar arquivo/diretório **
+git status: **Adicionar arquivo/diretório **
 
 *Adicionar um arquivo em específico*
 
@@ -41,17 +40,11 @@ git add -f arquivo_no_gitignore.txt
 
 **Comitar arquivo/diretório**
 
-*Comitar um arquivo*
+*Comitar um arquivo*:git commit meu_arquivo.txt
 
-git commit meu_arquivo.txt
+*Comitar vários arquivos*: git commit meu_arquivo.txt meu_outro_arquivo.txt
 
-*Comitar vários arquivos*
-
-git commit meu_arquivo.txt meu_outro_arquivo.txt
-
-*Comitar informando mensagem*
-
-git commit meuarquivo.txt -m "minha mensagem de commit"
+*Comitar informando mensagem*: git commit meuarquivo.txt -m "minha mensagem de commit"
 
 
 
